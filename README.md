@@ -22,15 +22,17 @@ This is the previously unpublished source code written by me (David R. Van Wagne
 
 Key        |Description
 -----------|-----------
-F1         |Scroll up listing
-F3         |Beginning of line
-F5         |End of line
-F7         |Scroll down listing
-Ctrl+Down  |Bottom of screen
+Ctrl+Up    |Scroll up listing
+C=+Left    |Beginning of line
+C=+Right   |End of line
+Ctrl+Down  |Scroll down listing
+Ctrl+Home  |Bottom of screen
 Ctrl+Ins   |Insert Line
 Ctrl+Return|Toggle Scroll Edit Keys On/Off
-Ctlr+Left  |Word** left
-Ctlr+Right |Word** right
+Ctrl+Left  |Word** left
+Ctrl+Right |Word** right
+
+(Note: C=/Ctrl can be interchanged in some cases)
 
 **Word = consecutive similar characters, skipping spaces and punctuation
 
