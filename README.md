@@ -36,7 +36,7 @@ Ctrl+Right |Word** right
 
 **Word = consecutive similar characters, skipping spaces and punctuation
 
-* letters: screen codes 01-1A 
+* letters: screen codes 01-1A (and 41-5A when not graphics)
 * punctuation: 00,1B-2F,3A-3F 
 * numbers: 30-39 
 * graphics: 40-7F 
