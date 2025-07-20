@@ -1,0 +1,20 @@
+# Scrolling BASIC Editor for Commodore 64 (Source Code) #
+
+Article and binary program were [originally published](https://archive.org/details/1988-01-computegazette/page/n81/mode/2up) by COMPUTE!'s Gazette January 1988 magazine issue, and also the corresponding floppy disk subscription
+
+This is the previously unpublished source code written by me (David R. Van Wagner) in 1987
+
+## Instructions for building from source
+
+1. Get a copy of [Fast Assember from COMPUTE!'s Gazette January 1986](https://archive.org/details/1986-01-computegazette/page/n79) or [FA+](https://techwithdave.davevw.com/2019/04/scrolling-editor-for-fast-assembler-31.html)*
+2. Load/Run Fast Assembler
+3. LOAD "SCRLEDIT.SRC",8
+4. RUN
+5. Will create SCRLEDIT program on disk 8
+6. (Optional) CONT command will save/backup source code changes to disk 8
+7. SYS 64738
+8. LOAD "SCRLEDIT",8
+9. RUN
+10. See the original article for how to use
+
+*Coincidentally FA+ is Fast Assembler plus Scrolling BASIC Editor built in August 1987
