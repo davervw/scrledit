@@ -11,10 +11,9 @@ This is the previously unpublished source code written by me (David R. Van Wagne
 3. LOAD "SCRLEDIT.SRC",8
 4. RUN
 5. Will create SCRLEDIT program on disk 8
-6. (Optional) CONT command will save/backup source code changes to disk 8
-7. SYS 64738
-8. LOAD "SCRLEDIT",8
-9. RUN
-10. See the original article for how to use
+6. SYS 64738
+7. LOAD "SCRLEDIT",8
+8. RUN
+9. See the original article for how to use
 
 *Coincidentally FA+ is Fast Assembler plus Scrolling BASIC Editor built in August 1987
