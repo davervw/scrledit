@@ -22,10 +22,10 @@ This is the previously unpublished source code written by me (David R. Van Wagne
 
 Key        |Description
 -----------|-----------
-Ctrl+Up    |Scroll up listing
+C=+Up      |Scroll up listing
 C=+Left    |Beginning of line
 C=+Right   |End of line
-Ctrl+Down  |Scroll down listing
+C=+Down    |Scroll down listing
 Ctrl+Home  |Bottom of screen
 Ctrl+Ins   |Insert Line
 Ctrl+Return|Toggle Scroll Edit Keys On/Off
