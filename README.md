@@ -2,7 +2,7 @@
 
 Article and binary program were [originally published](https://archive.org/details/1988-01-computegazette/page/n81/mode/2up) by COMPUTE!'s Gazette January 1988 magazine issue, and also the corresponding floppy disk subscription
 
-This is the previously unpublished source code written by me (David R. Van Wagner) in 1987
+This is the previously unpublished source code written by me (David R. Van Wagner) in 1987, now with some updates from 2025
 
 ## Instructions for building from source
 
