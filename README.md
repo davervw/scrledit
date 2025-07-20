@@ -17,3 +17,15 @@ This is the previously unpublished source code written by me (David R. Van Wagne
 9. See the original article for how to use
 
 *Coincidentally FA+ is Fast Assembler plus Scrolling BASIC Editor built in August 1987
+
+## Keystrokes
+
+Key        |Description
+-----------|-----------
+F1         |Scroll up listing
+F3         |Beginning of line
+F5         |End of line
+F7         |Scroll down listing
+Ctrl+Down  |Bottom of screen
+Ctrl+Ins   |Insert Line
+Ctrl+Return|Toggle Scroll Edit Keys On/Off
