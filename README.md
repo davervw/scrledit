@@ -29,3 +29,13 @@ F7         |Scroll down listing
 Ctrl+Down  |Bottom of screen
 Ctrl+Ins   |Insert Line
 Ctrl+Return|Toggle Scroll Edit Keys On/Off
+Ctlr+Left  |Word** left
+Ctlr+Right |Word** right
+
+**Word = consecutive similar characters, skipping spaces and punctuation
+
+* letters: screen codes 01-1A 
+* punctuation: 00,1B-2F,3A-3F 
+* numbers: 30-39 
+* graphics: 40-7F 
+* control/reverse: 80-FF 
