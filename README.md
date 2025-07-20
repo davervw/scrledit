@@ -2,7 +2,7 @@
 
 Article and binary program were [originally published](https://archive.org/details/1988-01-computegazette/page/n81/mode/2up) by COMPUTE!'s Gazette January 1988 magazine issue, and also the corresponding floppy disk subscription
 
-This is the previously unpublished source code written by me (David R. Van Wagner) in 1987
+This main branch is the previously unpublished source code written by me (David R. Van Wagner) in 1987.   For updates, see the [control-left-right branch](https://github.com/davervw/scrledit/tree/control-left-right).
 
 ## Instructions for building from source
 
