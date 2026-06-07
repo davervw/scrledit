@@ -14,7 +14,7 @@ This is the previously unpublished source code written by me (David R. Van Wagne
 6. SYS 64738
 7. LOAD "SCRLEDIT",8
 8. RUN
-9. See the original article for how to use
+9. See the original article for how to use (except most key bindings have changed, see below)
 
 *Coincidentally FA+ is Fast Assembler plus Scrolling BASIC Editor built in August 1987
 
